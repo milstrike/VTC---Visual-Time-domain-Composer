@@ -50,7 +50,7 @@ Make sure you have **Python 3.8** or higher installed on your system.
 ### Install Dependencies
 Clone the repository and install the required Python packages:
 
-git clone https://github.com/your-username/vtc.git
+git clone https://github.com/milstrike/vtc.git
 cd vtc
 pip install PyQt5 matplotlib numpy pandas
 
