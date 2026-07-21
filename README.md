@@ -1,8 +1,3 @@
-Aah, maaf banget! Sekarang saya paham penuh masalahnya. Ketika ada kode blok di *dalam* kode blok (nested markdown code block), parser tampilannya langsung pecah dan keluar ke teks biasa di bagian `How to Run`.
-
-Ini satu **raw text utuh bersih tanpa nested code block**, jadi dijamin 100% tidak akan pecah dari atas sampai bawah:
-
-```markdown
 # VTC – Visual Time-domain Composer
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
@@ -94,5 +89,3 @@ python vtc.py
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
