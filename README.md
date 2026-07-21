@@ -6,6 +6,8 @@
 
 **VTC (Visual Time-domain Composer)** is a feature-rich, interactive signal and waveform generator built with Python, PyQt5, and Matplotlib. It allows users to synthesize, visualize, and analyze various complex waveforms in real-time with customizable dynamic layouts and instant parameter tuning.
 
+![VTC App Preview](assets/app_image.png)
+
 ---
 
 ## 🌟 Key Features
